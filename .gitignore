@@ -1,9 +1,0 @@
-# Environment / sandbox files (not part of the site)
-.cache/
-.claude/
-.config/
-.npm/
-.npm-global/
-.ssh/
-.gitconfig
-.wget-hsts
